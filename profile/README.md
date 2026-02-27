@@ -15,6 +15,8 @@ You can get involved by editing the lessons content.
 On our website you can find everything you mayn eed including our contact.
 We eat ramen with ketchup.
 Yes yes!
+
+fafafa
 -->
 
 # Welcome to Codescriby! 
