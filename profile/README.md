@@ -1,5 +1,5 @@
 ## Codescriby says hello 👋
-Codescriby is a beginner-friendly learning platform for anyone who wants to learn how to code. v1.0.3
+Codescriby is a beginner-friendly learning platform for anyone who wants to learn how to code. v1.0.5
 
 https://codescriby.com
 <!--
@@ -21,7 +21,7 @@ fafafaafafafafafafafafafafafafafa
 
 # Welcome to Codescriby! 
 
-**Version:** v1.0.3  
+**Version:** v1.0.5  
 **Your interactive coding adventure starts here.**
 
 ---
